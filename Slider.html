@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css" />
+</head>
+<style>
+    * {
+        margin: 0px;
+        padding: 0px;
+        box-sizing: border-box;
+    }
+
+    .container {
+        width: 100%;
+        height: 100vh;
+        background: #222;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .swiper {
+        width: 80%;
+        height: fit-content;
+
+    }
+
+    .swiper-slide>img {
+        width: 100%;
+        height: 500px;
+    }
+</style>
+
+<body>
+
+    <div class="container">
+        <div class="swiper">
+
+            <div class="swiper-wrapper">
+
+                <div class="swiper-slide"><img
+                        src="https://www.jiomart.com/images/cms/aw_rbslider/slides/1669913386_1669808764_KV_1680x320.jpg"
+                        alt="">
+                </div>
+                <div class="swiper-slide"><img
+                        src="https://www.jiomart.com/images/cms/aw_rbslider/slides/1670869755_Winter-Sips_1680X320.jpg"
+                        alt="">
+                </div>
+                <div class="swiper-slide"><img
+                        src="https://www.jiomart.com/images/cms/aw_rbslider/slides/1670956574_Iphone_Banner_iphone_13_desktop.jpg"
+                        alt="">
+                </div>
+                <div class="swiper-slide"><img
+                        src="https://www.jiomart.com/images/cms/aw_rbslider/slides/1670956361_1670597073_1670352644_OIL-BANNER-Desktop.jpg"
+                        alt="">
+                </div>
+                <div class="swiper-slide"><img
+                        src="https://www.jiomart.com/images/cms/aw_rbslider/slides/1670868095_Bindaas-Biscuiting_1680x320.jpg"
+                        alt="">
+                </div>
+                <div class="swiper-slide"><img
+                        src="https://www.jiomart.com/images/cms/aw_rbslider/slides/1670867865_Home-and-Kitchen-Appliances-Carnival_1680-x-320.jpg"
+                        alt="">
+                </div>
+                <div class="swiper-slide"><img
+                        src="https://www.jiomart.com/images/cms/aw_rbslider/slides/1670956997_Dec-14_web.jpg"
+                        alt="">
+                </div>
+                <div class="swiper-slide"><img
+                        src="https://www.jiomart.com/images/cms/aw_rbslider/slides/1670868281_web.jpg"
+                        alt="">
+                </div>
+                <div class="swiper-slide"><img
+                        src="https://www.jiomart.com/images/cms/aw_rbslider/slides/1671040530_1670958241_1670437213_Mom--Baby_1680x320_New.jpg"
+                        alt="">
+                </div>
+                <div class="swiper-slide"><img
+                        src="https://www.jiomart.com/images/cms/aw_rbslider/slides/1671040590_1670957636_Bath--Body-Essentials.ai_1680x320.jpg"
+                        alt="">
+                </div>
+                <div class="swiper-slide"><img
+                        src="https://www.jiomart.com/images/cms/aw_rbslider/slides/1670389768_Web_Mumbai_PremiumFruits.jpg"
+                        alt="">
+                </div>
+                <div class="swiper-slide"><img
+                        src="https://www.jiomart.com/images/cms/aw_rbslider/slides/1670869141_1670434489_100-Handwoven-Fashion_1680x320.jpg"
+                        alt="">
+                </div>
+            </div>
+
+            <div class="swiper-pagination"></div>
+
+            <div class="swiper-button-prev"></div>
+            <div class="swiper-button-next"></div>
+        </div>
+    </div>
+
+</body>
+
+<script src="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.js"></script>
+<script>
+    const swiper = new Swiper('.swiper', {
+        autoplay: {
+            delay: 2000,
+            disableOnIntraction: false,
+        },
+        loop: true,
+
+        pagination: {
+            el: '.swiper-pagination',
+            clickable: true,
+        },
+
+        navigation: {
+            nextEl: '.swiper-button-next',
+            prevEl: '.swiper-button-prev',
+        },
+
+    });
+</script>
+
+</html>

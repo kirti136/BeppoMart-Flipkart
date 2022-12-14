@@ -1,0 +1,110 @@
+ * {
+     padding: 0px;
+     margin: 0px;
+     box-sizing: border-box;
+ }
+
+ /* ************* HEADER *************** */
+ header {
+     display: flex;
+     background-color: #115D89;
+     height: 50px;
+     align-items: center;
+     justify-content: space-evenly;
+ }
+
+ header>div:nth-child(1)>div {
+     width: 30px;
+     height: 3px;
+     background-color: white;
+     margin: 6px 0;
+ }
+
+ header>div:nth-child(2)>img {
+     width: 40%
+ }
+
+ header>div:nth-child(3)>input {
+     width: 600px;
+     padding: 8px;
+     border-radius: 3px;
+     border: none;
+ }
+
+ header>div:nth-child(4) {
+     display: flex;
+     align-items: center;
+     color: white;
+ }
+
+ header>div:nth-child(5) {
+     display: flex;
+     align-items: center;
+     color: white;
+ }
+
+ /* ********** DROPDOWN ********** */
+
+ .menu {
+     background-color: rgb(62, 61, 61);
+     text-align: center;
+ }
+
+ .menu ul {
+     display: inline-flex;
+     list-style: none;
+     color: white;
+ }
+
+ .menu ul li {
+     padding: 15px 25px;
+ }
+
+ .menu ul li a {
+     text-decoration: none;
+     color: white;
+ }
+
+ .menu>ul>li:hover {
+     background-color: gray;
+     border-radius: 2px;
+
+ }
+
+ .subMenu1 {
+     display: none;
+ }
+
+ .menu>ul>li:hover .subMenu1 {
+     display: block;
+     position: absolute;
+     background-color: rgb(67, 65, 65);
+     margin-top: 15px;
+     margin-left: -15px;
+ }
+
+ .menu>ul>li:hover .subMenu1 ul {
+     display: block;
+     margin: 10px;
+ }
+
+ .menu>ul>li:hover .subMenu1 ul li {
+     width: 200px;
+     padding: 10px;
+     /* border-bottom: 1px dotted white; */
+     background-color: transparent;
+     border-radius: 0px;
+     text-align: left;
+ }
+
+ .menu>ul>li:hover .subMenu1 ul li:last-child {
+     border-bottom: none;
+ }
+
+ .menu>ul>li:hover .subMenu1 ul li a:hover {
+     background-color: white;
+     border-radius: 3px;
+     color: black;
+     padding: 10px;
+
+ }
