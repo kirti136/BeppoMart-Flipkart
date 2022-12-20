@@ -1,0 +1,142 @@
+[
+    {
+        "image": "https://www.jiomart.com/images/product/150x150/590003515/onion-1-kg-product-images-o590003515-p590003515-0-202203170724.jpg",
+        "name": "Onion 1 kg",
+        "discountPrice": "20.00",
+        "originalPrice": "24.00",
+        "id": "1"
+    },
+    {
+        "image": "https://www.jiomart.com/images/product/150x150/590001266/sweet-corn-1-pc-approx-250-g-450-g-product-images-o590001266-p590001266-0-202203170359.jpg",
+        "name": "Sweet Corn 1 pc (Approx 250 g - 450 g)",
+        "discountPrice": "13.00",
+        "originalPrice": "15.00",
+        "id": "2"
+    },
+    {
+        "image": "https://www.jiomart.com/images/product/150x150/590000086/coconut-1-pc-approx-350-g-600-g-product-images-o590000086-p590000086-0-202203170206.jpg",
+        "name": "Coconut 1 pc (Approx 350 g - 600 g)",
+        "discountPrice": "27.00",
+        "originalPrice": "28.00",
+        "id": "3"
+    },
+    {
+        "image": "https://www.jiomart.com/images/product/150x150/590000070/pineapple-queen-1-pc-approx-700-g-1200-g-product-images-o590000070-p590000070-0-202203170357.jpg",
+        "name": "Pineapple Queen 1 pc",
+        "discountPrice": "65.00",
+        "originalPrice": "70.00",
+        "id": "4"
+    },
+    {
+        "image": "https://www.jiomart.com/images/product/150x150/590003517/tomato-1-kg-product-images-o590003517-p590003517-0-202203170629.jpg",
+        "name": "Tomato 1 kg",
+        "discountPrice": "10.00",
+        "originalPrice": "15.00",
+        "id": "5"
+    },
+    {
+        "image": "https://www.jiomart.com/images/product/150x150/590003564/tender-coconut-cling-wrapped-1-pc-approx-900-g-1300-g-product-images-o590003564-p590003564-0-202203151146.jpg",
+        "name": "Tender Cocunut Cling Wrapped",
+        "discountPrice": "43.00",
+        "originalPrice": "45.00",
+        "id": "6"
+    },
+    {
+        "image": "https://www.jiomart.com/images/product/150x150/590003516/potato-per-kg-product-images-o590003516-p590003516-0-202203170642.jpg",
+        "name": "Potato per kg",
+        "discountPrice": "30.00",
+        "originalPrice": "33.00",
+        "id": "7"
+    },
+    {
+        "image": "https://www.jiomart.com/images/product/150x150/590000059/banana-red-box-approx-800-g-1000-g-product-images-o590000059-p590034084-0-202203170221.jpg",
+        "name": "Banana Red Box (Approx 800 g)",
+        "discountPrice": "120.00",
+        "originalPrice": "140.00",
+        "id": "8"
+    },
+    {
+        "image": "https://www.jiomart.com/images/product/150x150/590000492/kinoo-orange-1-kg-product-images-o590000492-p590085177-0-202203170719.jpg",
+        "name": "Kinoo Orange 1 kg",
+        "discountPrice": "60.00",
+        "originalPrice": "79.00",
+        "id": "9"
+    },
+    {
+        "image": "https://www.jiomart.com/images/product/150x150/590000174/lauki-bottle-gourd-1-kg-product-images-o590000174-p590000174-0-202203170512.jpg",
+        "name": "Lauki (Bottle Gourd) 1 kg",
+        "discountPrice": "22.00",
+        "originalPrice": "30.00",
+        "id": "10"
+    },
+    {
+        "image": "https://www.jiomart.com/images/product/150x150/590000448/mosambi-1-kg-product-images-o590000448-p590000448-0-202203170909.jpg",
+        "name": "Mosambi 1 kg",
+        "discountPrice": "88.00",
+        "originalPrice": "99.00",
+        "id": "11"
+    },
+    {
+        "image": "https://www.jiomart.com/images/product/150x150/590002744/dates-imported-approx-400-g-500-g-product-images-o590002744-p590002744-0-202203170240.jpg",
+        "name": "Dates Imported (Approx 400 g - 500 g)",
+        "discountPrice": "150.00",
+        "originalPrice": "180.00",
+        "id": "12"
+    },
+    {
+        "image": "https://www.jiomart.com/images/product/150x150/590003550/bhendi-okra-500-g-product-images-o590003550-p590003550-0-202203170339.jpg",
+        "name": "Bhendi (Okra) 250 g",
+        "discountPrice": "14.00",
+        "originalPrice": "15.00",
+        "id": "13"
+    },
+    {
+        "image": "https://www.jiomart.com/images/product/150x150/590007689/dragonfruit-per-pc-approx-280-g-450-g-product-images-o590007689-p590007689-0-202203170904.jpg",
+        "name": "Dragon Fruit per pc (Approx 280 g - 450 g)",
+        "discountPrice": "70.00",
+        "originalPrice": "80.00",
+        "id": "14"
+    },
+    {
+        "image": "https://www.jiomart.com/images/product/150x150/590003537/cauliflower-1-pc-approx-600-g-1000-g-product-images-o590003537-p590003537-0-202203170515.jpg",
+        "name": "Cauliflower 1 pc (Approx 600 g - 1000 g)",
+        "discountPrice": "10.00",
+        "originalPrice": "13.00",
+        "id": "15"
+    },
+    {
+        "image": "https://www.jiomart.com/images/product/150x150/590003896/avocado-hass-approx-400-g-600-g-product-images-o590003896-p590003896-0-202203150700.jpg",
+        "name": "Avocado Hass (Approx. 170 g - 250 g)",
+        "discountPrice": "190.00",
+        "originalPrice": "200.00",
+        "id": "16"
+    },
+    {
+        "image": "https://www.jiomart.com/images/product/150x150/590001788/potato-low-sugar-2-kg-product-images-o590001788-p590001788-0-202207272007.jpg",
+        "name": "Potato Low Sugar 2 kg",
+        "discountPrice": "77.00",
+        "originalPrice": "88.00",
+        "id": "17"
+    },
+    {
+        "image": "https://www.jiomart.com/images/product/150x150/590003533/green-chilli-200-g-product-images-o590003533-p590003533-0-202203150435.jpg",
+        "name": "Green Chilli 200 g",
+        "discountPrice": "15.00",
+        "originalPrice": "16.00",
+        "id": "18"
+    },
+    {
+        "image": "https://www.jiomart.com/images/product/150x150/590003532/indian-garlic-200-g-product-images-o590003532-p590003532-0-202203141952.jpg",
+        "name": "Indian Garlic 200 g",
+        "discountPrice": "15.00",
+        "originalPrice": "20.00",
+        "id": "19"
+    },
+    {
+        "image": "https://www.jiomart.com/images/product/150x150/590001265/watermelon-kiran-1-pc-approx-2300-g-3000-g-product-images-o590001265-p590041413-0-202203142036.jpg",
+        "name": "Watermellon Kiran Big 1 pc (Approx 500g)",
+        "discountPrice": "225.00",
+        "originalPrice": "370.00",
+        "id": "20"
+    }
+]

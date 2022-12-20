@@ -392,6 +392,7 @@ footer>div:nth-child(2) {
 
 .container5>#cart-container>div>img {
     width: 100%;
+    height: 200px
 }
 
 .container5>#cart-container>div>button {
